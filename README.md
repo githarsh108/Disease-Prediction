@@ -1,0 +1,13 @@
+steps being performed
+-- importing libraries
+-- reading the dataset using pandas 
+-- encoding the target values into numerical
+-- splitting the data for training and testing the model
+-- building the model
+   -- k- fold cross validation
+   -- support vector classifier
+   -- gaussian naive bayes
+   -- random forest classifier
+-- building robust classifier by combining all models
+--fitting the model on whole data and validating on the test dataset
+-- creating a function that can take symptoms as input and generate predictions for disease
